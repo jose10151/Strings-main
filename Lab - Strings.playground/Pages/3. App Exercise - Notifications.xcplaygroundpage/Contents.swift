@@ -18,6 +18,9 @@
  */
 let previousBest = 14392
 let newBest = 15125
+let fullname = "Jose Trujillo"
+let congratulations = "\(fullname)! You beat your previous daily high score of \(previousBest) steps by walking \(newBest) steps yesterday!"
+print(congratulations)
 
 /*:
 [Previous](@previous)  |  page 3 of 5  |  [Next: Exercise - String Equality and Comparison](@next)
